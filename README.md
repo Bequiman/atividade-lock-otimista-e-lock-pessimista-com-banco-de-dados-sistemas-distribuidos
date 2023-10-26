@@ -1,0 +1,1 @@
+# atividade-lock-otimista-e-lock-pessimista-com-banco-de-dados-sistemas-distribuidos
